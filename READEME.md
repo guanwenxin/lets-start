@@ -6,7 +6,7 @@
 :::
 ## Github
 
-github地址：
+github地址：https://github.com/guanwenxin
 ## Timeline
 :::info
 上课期间的代码任务需要及时完成并更新此文档中的仓库链接
