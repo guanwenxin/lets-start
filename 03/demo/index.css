@@ -56,13 +56,14 @@ body,
     height: 27px;
     margin-bottom: 16px;
     padding: 6px 8px 8px 8px;
-    background-color: blue;
+    background-color: rgb(30 128 255);
 }
 
 .up {
     display: flex;
     justify-content: space-between;
     font-size: 12px;
+    width: 100%;
 }
 
 
